@@ -41,7 +41,7 @@ Identifies and evaluates risks across the organization.
 
 **Enterprise Risk Assessment**
 
-* Risk register (25 risks identified and scored)
+* Risk register (26 risks identified and scored)
 * Risk heat map visualization
 * Business, operational, and cybersecurity risk analysis
 
@@ -86,7 +86,7 @@ These documents translate control recommendations into **organizational expectat
 
 ## Key Highlights
 
-* Developed a **risk register of 25 risks** across technical, operational, and third-party domains
+* Developed a **risk register of 26 risks** across technical, operational, and third-party domains
 * Applied a **qualitative risk model** using:
 
   * Likelihood scale (1–5)
